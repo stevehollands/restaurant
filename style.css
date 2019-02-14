@@ -1,0 +1,44 @@
+b {
+    text-shadow: 1px 1px #FF0000;
+    color: yellow;
+}
+
+.jos {
+
+    padding-left: 150px;
+
+}
+
+ul > li {
+
+    padding-right: 50px;
+}
+
+
+.card-text {
+
+    font-weight: bolder;
+    text-shadow: 1px 1px grey;
+}
+
+.jef {
+
+    margin-left: 50px;
+}
+
+.john {
+
+    margin-top: 10px;
+    padding-bottom: 0%;
+}
+
+.list-group {
+    text-shadow: 1px 1px grey;
+    color: red;
+    font-weight: bolder;
+    
+}
+  
+
+
+    
